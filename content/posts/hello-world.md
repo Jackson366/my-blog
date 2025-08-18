@@ -1,8 +1,6 @@
 ---
-title: "Content Placeholder"
-build:
-  render: never
-  list: never
-  publishResources: false
+title: "你好，世界"
+date: 2024-06-10T12:00:00+08:00
 ---
 
+欢迎来到我的博客！这是我的第一篇文章。以后我会在这里分享我的学习和生活点滴，敬请期待！
