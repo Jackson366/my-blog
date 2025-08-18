@@ -1,0 +1,5 @@
+baseURL = "https://jackson366.github.io/"
+title = "My Blog"
+theme = "ananke"
+languageCode = "zh-cn"
+pagerSize = 10 
