@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Blog</title>
-    <link>https://jackson366.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on My Blog</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 19 Dec 2024 10:30:00 +0800</lastBuildDate>
-    <atom:link href="https://jackson366.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Aug 2025 09:09:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/posts/test/</link>
+      <pubDate>Tue, 19 Aug 2025 09:09:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/test/</guid>
+      <description>&lt;h1 id=&#34;test&#34;&gt;Test&lt;/h1&gt;&#xA;&lt;p&gt;这是一个测试文章。&lt;/p&gt;&#xA;&lt;p&gt;你可以在这里写下你的想法、记录生活点滴，或者分享一些有趣的事情。&lt;/p&gt;&#xA;&lt;p&gt;祝你写作愉快！&lt;/p&gt;</description>
+    </item>
     <item>
       <title>测试CI自动部署功能</title>
-      <link>https://jackson366.github.io/posts/test-ci-deployment/</link>
+      <link>http://localhost:1313/posts/test-ci-deployment/</link>
       <pubDate>Thu, 19 Dec 2024 10:30:00 +0800</pubDate>
-      <guid>https://jackson366.github.io/posts/test-ci-deployment/</guid>
+      <guid>http://localhost:1313/posts/test-ci-deployment/</guid>
       <description>&lt;h1 id=&#34;测试ci自动部署&#34;&gt;测试CI自动部署&lt;/h1&gt;&#xA;&lt;p&gt;这篇文章是为了测试我们的GitHub Actions CI是否正常工作。&lt;/p&gt;&#xA;&lt;h2 id=&#34;测试内容&#34;&gt;测试内容&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 创建新的博客文章&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 推送到my-blog仓库&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; CI自动构建并部署到jackson366.github.io&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 验证部署结果&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;如果这篇文章出现在 &lt;a href=&#34;https://jackson366.github.io&#34;&gt;jackson366.github.io&lt;/a&gt; 上，说明我们的CI配置成功了！&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;测试时间&lt;/strong&gt;: 2024-12-19&#xA;&lt;strong&gt;测试状态&lt;/strong&gt;: 进行中&lt;/p&gt;</description>
     </item>
     <item>
       <title>你好，世界</title>
-      <link>https://jackson366.github.io/posts/hello-world/</link>
+      <link>http://localhost:1313/posts/hello-world/</link>
       <pubDate>Mon, 10 Jun 2024 12:00:00 +0800</pubDate>
-      <guid>https://jackson366.github.io/posts/hello-world/</guid>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
       <description>&lt;p&gt;欢迎来到我的博客！这是我的第一篇文章。以后我会在这里分享我的学习和生活点滴，敬请期待！&lt;/p&gt;</description>
     </item>
   </channel>
