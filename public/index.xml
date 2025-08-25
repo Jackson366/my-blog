@@ -13,7 +13,14 @@
       <link>http://localhost:1313/posts/test/</link>
       <pubDate>Tue, 19 Aug 2025 09:09:00 +0800</pubDate>
       <guid>http://localhost:1313/posts/test/</guid>
-      <description>&lt;h1 id=&#34;test&#34;&gt;Test&lt;/h1&gt;&#xA;&lt;p&gt;这是一个测试文章。&lt;/p&gt;&#xA;&lt;p&gt;你可以在这里写下你的想法、记录生活点滴，或者分享一些有趣的事情。&lt;/p&gt;&#xA;&lt;p&gt;祝你写作愉快！&lt;/p&gt;</description>
+      <description>&lt;p&gt;这是一个测试文章。&lt;/p&gt;&#xA;&lt;p&gt;你可以在这里写下你的想法、记录生活点滴，或者分享一些有趣的事情。&lt;/p&gt;&#xA;&lt;p&gt;祝你写作愉快！&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>博客系统与工具集</title>
+      <link>http://localhost:1313/projects/showcase/</link>
+      <pubDate>Wed, 01 Jan 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/projects/showcase/</guid>
+      <description>我的博客与部署脚本、主题自定义与CI配置等。</description>
     </item>
     <item>
       <title>测试CI自动部署功能</title>

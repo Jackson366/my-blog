@@ -2,6 +2,7 @@
 date = '2025-08-19T09:09:00+08:00'
 draft = false
 title = 'Test'
+comment = true
 +++
 这是一个测试文章。
 

@@ -11,14 +11,37 @@
     <loc>http://localhost:1313/posts/test/</loc>
     <lastmod>2025-08-19T09:09:00+08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-01-01T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ci/</loc>
+    <lastmod>2025-01-01T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/fixit/</loc>
+    <lastmod>2025-01-01T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/hugo/</loc>
+    <lastmod>2025-01-01T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/projects/</loc>
+    <lastmod>2025-01-01T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-01-01T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/theme/</loc>
+    <lastmod>2025-01-01T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/showcase/</loc>
+    <lastmod>2025-01-01T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/</loc>
+    <lastmod>2025-01-01T10:00:00+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/test-ci-deployment/</loc>
     <lastmod>2024-12-19T10:30:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/hello-world/</loc>
     <lastmod>2024-06-10T12:00:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

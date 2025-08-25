@@ -1,5 +1,57 @@
 baseURL = "https://jackson366.github.io/"
 title = "My Blog"
-theme = "ananke"
 languageCode = "zh-cn"
-pagerSize = 10 
+pagerSize = 10
+
+[pagination]
+  pagerSize = 10
+theme = "FixIt"
+hasCJKLanguage = true
+mainSections = ["posts", "projects"]
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "文章"
+    url = "/posts/"
+    weight = 1
+  [[menu.main]]
+    identifier = "projects"
+    name = "项目"
+    url = "/projects/"
+    weight = 2
+  [[menu.main]]
+    identifier = "categories"
+    name = "分类"
+    url = "/categories/"
+    weight = 3
+  [[menu.main]]
+    identifier = "tags"
+    name = "标签"
+    url = "/tags/"
+    weight = 4
+  [[menu.main]]
+    identifier = "archives"
+    name = "归档"
+    url = "/archives/"
+    weight = 5
+
+[params]
+defaultTheme = "auto"
+
+[params.busuanzi]
+enable = true
+source = "https://vercount.one/js"
+siteViews = true
+pageViews = true
+
+[params.page]
+
+  [params.page.comment]
+  enable = true
+
+    [params.page.comment.utterances]
+    enable = true
+    repo = "Jackson366/blog_comment"
+    issueTerm = "pathname"
+    label = "comment"
