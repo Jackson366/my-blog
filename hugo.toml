@@ -52,6 +52,6 @@ pageViews = true
 
     [params.page.comment.utterances]
     enable = true
-    repo = "Jackson366/blog_comment"
+    repo = "Jackson366/my-blog"
     issueTerm = "pathname"
     label = "comment"
