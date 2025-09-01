@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>项目 on My Blog</title>
+    <title>项目 on jackson366思考的地方</title>
     <link>http://localhost:1313/projects/</link>
-    <description>Recent content in 项目 on My Blog</description>
+    <description>Recent content in 项目 on jackson366思考的地方</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Wed, 01 Jan 2025 10:00:00 +0800</lastBuildDate>
